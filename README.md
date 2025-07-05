@@ -1,4 +1,4 @@
-Hello! I'm Puquismo, a brazilian programmer student, at the moment I'm working at my portifolio! What i'm studying for now:
+**Hello! I'm Puquismo, a brazilian programmer student, at the moment I'm working at my portifolio! What i'm studying for now:***
 1. HTML
 2. CSS
 3. JAVA SCRIPT
