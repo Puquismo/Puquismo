@@ -1,11 +1,11 @@
-**Hello! I'm Puquismo, a brazilian programmer student, at the moment I'm working at my portifolio! What i'm studying for now:***
-1. HTML
-2. CSS
-3. JAVA SCRIPT
-4. PYTHON
-5. SCRATCH
+**Hello! I'm Puquismo 🐟, a brazilian programmer student, at the moment I'm working at my portifolio! What i'm studying for now:***
+1. HTML 🐟
+2. CSS 🐟
+3. JAVA SCRIPT 🐟
+4. PYTHON 🐟
+5. SCRATCH 🐟
 
-That's it for now!
+That's it for now! ^^
 
 ![hatsune-miku-meme](https://github.com/user-attachments/assets/9cdd3270-0b02-4560-b5d4-0ad9293593e0)
 
