@@ -7,7 +7,7 @@ Hello! I'm Puquismo, a brazilian programmer student, at the moment I'm working a
 
 That's it for now!
 
-!(https://tenor.com/pt-BR/view/hatsune-miku-meme-big-eyes-gif-15694997021212211490)
+![](https://tenor.com/pt-BR/view/hatsune-miku-meme-big-eyes-gif-15694997021212211490)
 <!--
 **Puquismo/Puquismo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
