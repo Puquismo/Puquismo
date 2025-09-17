@@ -42,18 +42,7 @@ Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-  <br>
-  <br>
-  
-  ### 🌸 estatísticas
-  
-<img 
-  align="left"
-  alt ="Github-stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puquismo&theme=dracula&layout=compact&custom_title=Tecnologias"/>
-  
+
           
           
         
