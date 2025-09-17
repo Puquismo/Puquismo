@@ -1,25 +1,19 @@
-**Hello! I'm Puquismo 🐟, a brazilian programmer student, at the moment I'm working at my portifolio! What i'm studying for now:**
-1. HTML 🐟
-2. CSS 🐟
-3. JAVA SCRIPT 🐟
-4. PYTHON 🐟
-5. SCRATCH 🐟
+# 🌸 Puquismo
 
-That's it for now! ^^
+**`Estudante Front-end`**
 
-![hatsune-miku-meme](https://github.com/user-attachments/assets/9cdd3270-0b02-4560-b5d4-0ad9293593e0)
+Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por programação, principalmente na área do *front-end*. Estou atualmente estudando pela *freecodecamp* e pela *cs50*, também sou portadora de TEA nível 1.
 
-<!--
-**Puquismo/Puquismo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🌸 linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img
+  align="left"
+  alt ="HTML"
+  title ="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+
