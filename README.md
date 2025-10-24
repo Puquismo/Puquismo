@@ -7,7 +7,6 @@ Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por 
 
 ### 🌸 linguagens
 
-
 <img
   align="left"
   alt ="HTML"
@@ -42,6 +41,22 @@ Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+  <br>
+  <br>
+
+  ### 🌸 Estatísticas
+
+<img 
+  align="left"
+  height="200px"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Puquismo&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" />
+
+<img 
+  align="left"
+  height="200px"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puquismo&theme=dracula&locale=pt-br&layout=compact&custom_title=Tecnologias&lang_count=9" />
 
           
           
