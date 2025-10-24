@@ -2,7 +2,7 @@
 
 **`Estudante Front-end`**
 
-Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por programação, principalmente na área do *front-end*. Estou atualmente estudando pela *freecodecamp* e pela *cs50*, também sou portadora de TEA nível 1.
+Pode me chamar de *Puquismo*, sou uma estudante do ensino médio apaixonada por programação, principalmente na área do *front-end*. Estou atualmente estudando pela *enxurrada de bits* e pela *cs50*, também sou portadora de TEA nível 1.
 
 
 ### 🌸 linguagens
